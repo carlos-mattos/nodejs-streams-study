@@ -1,0 +1,15 @@
+{
+  "name": "streams",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start:streams": "node streams.js",
+    "start:traditional": "node traditional.js",
+    "start:create:file": "node create-random-file.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
